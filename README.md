@@ -12,7 +12,7 @@ A Python3 jupyter notebook to download images from Google. + A novel dataset to 
 - It works
 - with few tweaks you can change the search engine as well
 
-##@ How to use
+### How to use
 
 - `git clone <repository url`
 - `cd <repository>`
