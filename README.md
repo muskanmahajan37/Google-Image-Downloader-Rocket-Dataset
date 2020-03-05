@@ -74,12 +74,12 @@ LICENSE.md](LICENSE.md) file for details
 
 ## Todo
 
--[x] Number of images
--[ ] Search engine option
--[ ] Reverse image option
--[ ] Custom resolution
--[ ] License info of images
--[ ] Add an option to provide multiple search terms
+- [x] Number of images
+- [ ] Search engine option
+- [ ] Reverse image option
+- [ ] Custom resolution
+- [ ] License info of images
+- [ ] Add an option to provide multiple search terms
 
 ## Dataset
 
@@ -98,4 +98,4 @@ The images have been provided for educational purpose and are owned by their res
 
 ## License
 
-This project is licensed under the MIT License - see the [
+This project is licensed under the MIT License
